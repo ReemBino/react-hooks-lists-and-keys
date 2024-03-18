@@ -1,4 +1,4 @@
-test("Test passing", () => {
+test("should pass", () => {
   return new Promise((resolve, reject) => {
     resolve(true);
   });
